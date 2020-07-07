@@ -1,0 +1,6 @@
+*.pyc
+*.csv
+*.xml
+*.h5
+*.weights
+*.drawio
